@@ -1,27 +1,27 @@
-## Hi there! 👋 I'm [Your Name]  
+## Hi there! 👋 I'm [Sangeetha Reddy Pulicherla]  
 
-I’m a passionate **software developer** who loves working on **algorithms, data structures, and system design**. I enjoy solving complex problems and contributing to open-source projects.  
+I’m a passionate **software developer** who loves working on **algorithms, data structures, and system design**. I enjoy solving complex problems and contributing to open-source projects. I am also a **Data Science and Data Engineering Enthusiast**, exploring **machine learning, big data technologies, and data pipelines**.
 
 ---
 
 ## 🚀 About Me:
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Topics you're learning]**
+- 🔭 I’m currently working on an full stack project.
+- 🌱 I’m currently learning some of the typical **DSA** Algorithms
 - 💬 Ask me about **Python, Java, Data Structures & Algorithms**
-- 📫 How to reach me: **[Your Email or LinkedIn]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 📫 How to reach me: **[sangeethareddypulicharla@gmail.com]**
+- ⚡ Fun fact: **[🏗️ I break things just to fix them again! (a.k.a. debugging)]**
 
 ---
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+
 
 ---
 ## 🏅 Coding Profiles:
@@ -34,29 +34,30 @@ I’m a passionate **software developer** who loves working on **algorithms, dat
 
 
 ## 🏆 Certifications:
-- ✅ **[Certification Name]** - *[Issuing Organization]*  
-- ✅ **[Certification Name]** - *[Issuing Organization]*  
-- ✅ **[Certification Name]** - *[Issuing Organization]*  
-
-📜 _Check out all my certifications on [LinkedIn](https://www.linkedin.com/in/yourprofile/)_  
+- ✅ **[Generative AI]** - *[GUVI Geek Networks IITM Research Park]*  
+- ✅ **[Micro-Certification-Flow-Designing]** - *[servicenow]*  
+- ✅ **[Walmart USA-Advanced Software Engineering Job Simulation]** - *[Forage and WALMART]*  
+- ✅ **[Java]** - *[HackerRank]*  
+- ✅ **[SAWIT.AI Learnathon]** - *[HCL Tech]*  
+📜 _Check out all my certifications on [LinkedIn](https://www.linkedin.com/in/pulicherla30/)
 
 ---
 
 ## 🚀 Projects:
 ### 🌟 Featured Projects:
-- 🔹 **[Project Name](https://github.com/yourusername/project1)**  
-  🛠 *Short Description of the project (Tech stack used, purpose, etc.)*
+- 🔹 **[The Password Generator Webpage ](https://github.com/yourusername/project1)**  
+  🛠 * A simple web application that helps users generate secure passwords. The application allows users to customize their passwords by selecting uppercase letters, lowercase letters, special characters, and numbers.*
   
-- 🔹 **[Project Name](https://github.com/yourusername/project2)**  
-  🛠 *Short Description of the project (Tech stack used, purpose, etc.)*
+- 🔹 **[Fake currency detection uses image processinge](https://github.com/yourusername/project2)**  
+  🛠 * It examines to analyze security features like watermarks, threads, and texture patterns. A camera or scanner captures the note, and tools like OpenCV and MATLAB extract key features after preprocessing. Machine learning or pattern-matching algorithms then classify the note as real or counterfeit*
 
-🔗 _Check out more projects in my [GitHub Repositories](https://github.com/yourusername?tab=repositories)_  
+🔗 _Check out more projects in my [GitHub Repositories](https://github.com/sangeereddy30?tab=repositories)_  
 
 ---
 ## 🎯 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulicherla30/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sangeereddy3008)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sangeereddy30)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com/)  
 
 ---
