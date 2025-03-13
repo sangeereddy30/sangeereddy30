@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Sangeetha Reddy Pulicherla]  
+## Hi there! 👋 I'm Sangeetha Reddy Pulicherla! 
 
 I’m an Aspiring **Software Developer** who loves working on **algorithms, data structures, and system design**. I enjoy solving complex problems and contributing to open-source projects. I am also a **Data Science and Data Engineering Enthusiast**, exploring **machine learning, big data technologies, and data pipelines**.
 
