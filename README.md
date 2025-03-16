@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Sangeetha Reddy Pulicherla! 
 
-I’m an Aspiring **Software Developer** who loves working on **algorithms, data structures, and system design**. I enjoy solving complex problems and contributing to open-source projects. I am also a **Data Science and Data Engineering Enthusiast**, exploring **machine learning, big data technologies, and data pipelines**.
+I’m an Aspiring **Software Developer** who loves working on **algorithms, data structures, and system design**. I enjoy solving complex problems and contributing to open-source projects. I am also an **Data Science and Data Engineering Enthusiast**, exploring **machine learning, big data technologies, and data pipelines**.
 
 ---
 
@@ -14,7 +14,8 @@ I’m an Aspiring **Software Developer** who loves working on **algorithms, data
 ---
 
 ## 💻 Tech Stack:
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+
+ <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> -->
@@ -33,6 +34,7 @@ I’m an Aspiring **Software Developer** who loves working on **algorithms, data
   <img src="https://img.shields.io/badge/-Computer%20Networks-008080?style=flat-square&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/-Generative%20AI-800080?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/-Robotics-FFAA00?style=flat-square&logo=nasa&logoColor=white">
 </div>
 
 
@@ -63,6 +65,13 @@ I’m an Aspiring **Software Developer** who loves working on **algorithms, data
   
 - 🔹 **[Fake currency detection uses image processinge](https://github.com/yourusername/project2)**  
   🛠 * It examines to analyze security features like watermarks, threads, and texture patterns. A camera or scanner captures the note, and tools like OpenCV and MATLAB extract key features after preprocessing. Machine learning or pattern-matching algorithms then classify the note as real or counterfeit*
+
+  
+- 🔹 **[Pit Patrol Bot](https://github.com/yourusername/project2)**  
+  🛠 * The Pit Patrol Bot is an 100 percent autonomous robotic system designed to detect pits in forests using ultrasonic, IR, PIR sensors, and the OV7670 camera module. It enhances safety by identifying hazardous pits and alerting authorities for preventive action.*
+
+- 🔹 **[Coin Segregation](https://github.com/yourusername/project2)**  
+  🛠 * Designed a smart robotic system that can automatically sort coins based on their size, weight, or material, utilizing a combination of sensors, actuators, and intelligent processing.*
 
 🔗 _Check out more projects in my [GitHub Repositories](https://github.com/sangeereddy30?tab=repositories)_  
 
