@@ -6,7 +6,7 @@ I’m an Aspiring **Software Developer** who loves working on **algorithms, data
 
 ## 🚀 About Me:
 - 🔭 I’m currently working on an full stack project.
-- 🌱 I’m currently learning some of the typical **DSA** Algorithms
+- 🌱 I’m currently learning some of the typical **DSA** Algorithms and working on the DSA projects
 - 💬 Ask me about **Python, Java, Data Structures & Algorithms**
 - 📫 How to reach me: **[sangeethareddypulicharla@gmail.com]**
 - ⚡ Fun fact: **[🏗️ I break things just to fix them again! (a.k.a. debugging)]**
@@ -56,7 +56,7 @@ I’m an Aspiring **Software Developer** who loves working on **algorithms, data
 - ✅ **[Walmart USA-Advanced Software Engineering Job Simulation]** - *[Forage and WALMART]*  
 - ✅ **[Java]** - *[HackerRank]*  
 - ✅ **[SAWIT.AI Learnathon]** - *[HCL Tech]*
-- - ✅ **[Problem Solving (Intermediate)]** - *[HackerRank]*[problem_solving_intermediate certificate.pdf](https://github.com/user-attachments/files/19272356/problem_solving_intermediate.certificate.pdf)
+-✅ **[Problem Solving (Intermediate)]** - *[HackerRank]*
 
 📜 _Check out all my certifications on [LinkedIn](https://www.linkedin.com/in/pulicherla30/)
 
