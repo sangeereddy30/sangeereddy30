@@ -35,6 +35,8 @@ I’m an Aspiring **Software Developer** who loves working on **algorithms, data
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/-Generative%20AI-800080?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/-Robotics-FFAA00?style=flat-square&logo=nasa&logoColor=white">
+<img src="https://img.shields.io/badge/-UI/UX-0099ff?style=flat-square&logo=figma&logoColor=white">
+
 </div>
 
 
@@ -53,7 +55,9 @@ I’m an Aspiring **Software Developer** who loves working on **algorithms, data
 - ✅ **[Micro-Certification-Flow-Designing]** - *[servicenow]*  
 - ✅ **[Walmart USA-Advanced Software Engineering Job Simulation]** - *[Forage and WALMART]*  
 - ✅ **[Java]** - *[HackerRank]*  
-- ✅ **[SAWIT.AI Learnathon]** - *[HCL Tech]*  
+- ✅ **[SAWIT.AI Learnathon]** - *[HCL Tech]*
+- - ✅ **[Problem Solving (Intermediate)]** - *[HackerRank]*[problem_solving_intermediate certificate.pdf](https://github.com/user-attachments/files/19272356/problem_solving_intermediate.certificate.pdf)
+
 📜 _Check out all my certifications on [LinkedIn](https://www.linkedin.com/in/pulicherla30/)
 
 ---
