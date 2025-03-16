@@ -76,6 +76,9 @@ I’m an Aspiring **Software Developer** who loves working on **algorithms, data
 
 - 🔹 **[Coin Segregation](https://github.com/yourusername/project2)**  
   🛠 * Designed a smart robotic system that can automatically sort coins based on their size, weight, or material, utilizing a combination of sensors, actuators, and intelligent processing.*
+  
+- 🔹 **[Spam Mail Detection using Machine Learning](https://github.com/yourusername/project2)**  
+  🛠 * This project implements a Spam Detection System using Machine Learning techniques. The model is trained to classify messages as Spam or Not Spam (Ham) based on text content.The classifier uses Multinomial Naïve Bayes, a common algorithm for text classification, and applies the Bag-of-Words (BoW) model to convert text into numerical features.*
 
 🔗 _Check out more projects in my [GitHub Repositories](https://github.com/sangeereddy30?tab=repositories)_  
 
