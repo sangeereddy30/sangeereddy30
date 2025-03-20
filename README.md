@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Sangeetha Reddy Pulicherla! 
 
-I’m an Aspiring **Software Developer** who loves working on **algorithms, data structures, and system design**. I enjoy solving complex problems and contributing to open-source projects. I am also an **Data Science and Data Engineering Enthusiast**, exploring **machine learning, big data technologies, and data pipelines**.
+I am a passionate **Technology Enthusiast** and **Problem Solver**, constantly refining my skills in Data Structures and Algorithms (DSA) through continuous learning and practice. Currently pursuing my Bachelor’s degree in Information Technology at Sreenidhi Institute of Science and Technology, I thrive on tackling algorithmic challenges and optimizing solutions. With a strong foundation in programming and a curiosity for emerging technologies, I embrace new challenges as opportunities for growth. My dedication to problem-solving drives me to explore efficient techniques, enhance my analytical thinking, and contribute meaningfully to the ever-evolving tech landscape. 🚀
 
 ---
 
@@ -33,6 +33,9 @@ I’m an Aspiring **Software Developer** who loves working on **algorithms, data
   <img src="https://img.shields.io/badge/-DBMS-FF5733?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Computer%20Networks-008080?style=flat-square&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/-Generative%20AI-800080?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/-Robotics-FFAA00?style=flat-square&logo=nasa&logoColor=white">
 <img src="https://img.shields.io/badge/-UI/UX-0099ff?style=flat-square&logo=figma&logoColor=white">
