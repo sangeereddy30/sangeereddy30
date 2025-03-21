@@ -45,10 +45,11 @@ I am a passionate **Technology Enthusiast** and **Problem Solver**, constantly r
 
 ---
 ## 🏅 Coding Profiles:
-- **LeetCode**: [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/sangeereddy30/)
-- **Codeforces**: [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sangeethareddypulicharla)
-- **CodeChef**: [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sangeereddy30)
-- **HackerRank**: [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sangeethareddyp1)
+- **LeetCode**: [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/sangeereddy30/)  
+- **Codeforces**: [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sangeethareddypulicharla)  
+- **CodeChef**: [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sangeereddy30)  
+- **HackerRank**: [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sangeethareddyp1)  
+- **GeeksforGeeks**: [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sangeethvxy0/)  
 
 ---
 
