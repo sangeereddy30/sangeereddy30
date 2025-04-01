@@ -5,7 +5,7 @@ I am a passionate **Technology Enthusiast** and **Problem Solver**, constantly r
 ---
 
 ## 🚀 About Me:
-- 🔭 I’m currently working on an full stack project.
+- 🔭 I am currently working on a full-stack project while learning backend development. I am applying my backend skills in a project called 'TO-DO List,' where I am integrating AI into the development to enhance task management and automation.
 - 🌱 I’m currently learning some of the typical **DSA** Algorithms and working on the DSA projects
 - 💬 Ask me about **Python, Java, Data Structures & Algorithms**
 - 📫 How to reach me: **[sangeethareddypulicharla@gmail.com]**
