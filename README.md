@@ -95,4 +95,4 @@ I am a passionate **Technology Enthusiast** and **Problem Solver**, constantly r
 
 ---
 
-⭐ _Feel free to star some of my repositories and follow me for more cool projects!_  
+## Feel free to star some of my repositories and follow me for more cool projects!
