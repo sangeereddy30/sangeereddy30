@@ -68,20 +68,20 @@ I am a passionate **Technology Enthusiast** and **Problem Solver**, constantly r
 
 ## 🚀 Projects:
 ### 🌟 Featured Projects:
-- 🔹 **[The Password Generator Webpage ](https://github.com/yourusername/project1)**  
+- 🔹 **[The Password Generator Webpage ]**  
   🛠 * A simple web application that helps users generate secure passwords. The application allows users to customize their passwords by selecting uppercase letters, lowercase letters, special characters, and numbers.*
   
-- 🔹 **[Fake currency detection uses image processinge](https://github.com/yourusername/project2)**  
+- 🔹 **[Fake currency detection uses image processinge]**  
   🛠 * It examines to analyze security features like watermarks, threads, and texture patterns. A camera or scanner captures the note, and tools like OpenCV and MATLAB extract key features after preprocessing. Machine learning or pattern-matching algorithms then classify the note as real or counterfeit*
 
   
-- 🔹 **[Pit Patrol Bot](https://github.com/yourusername/project2)**  
+- 🔹 **[Pit Patrol Bot]**  
   🛠 * The Pit Patrol Bot is an 100 percent autonomous robotic system designed to detect pits in forests using ultrasonic, IR, PIR sensors, and the OV7670 camera module. It enhances safety by identifying hazardous pits and alerting authorities for preventive action.*
 
-- 🔹 **[Coin Segregation](https://github.com/yourusername/project2)**  
+- 🔹 **[Coin Segregation]**  
   🛠 * Designed a smart robotic system that can automatically sort coins based on their size, weight, or material, utilizing a combination of sensors, actuators, and intelligent processing.*
   
-- 🔹 **[Spam Mail Detection using Machine Learning](https://github.com/yourusername/project2)**  
+- 🔹 **[Spam Mail Detection using Machine Learning]**  
   🛠 * This project implements a Spam Detection System using Machine Learning techniques. The model is trained to classify messages as Spam or Not Spam (Ham) based on text content.The classifier uses Multinomial Naïve Bayes, a common algorithm for text classification, and applies the Bag-of-Words (BoW) model to convert text into numerical features.*
 
 🔗 _Check out more projects in my [GitHub Repositories](https://github.com/sangeereddy30?tab=repositories)_  
