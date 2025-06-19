@@ -5,7 +5,7 @@ I am a passionate **Technology Enthusiast** and **Problem Solver**, constantly r
 ---
 
 ## 🚀 About Me:
-- 🔭I am currently working on a full-stack project while learning backend development.
+- 🔭I am currently working on a full-stack project called "Productivity-Hub", while learning and implementing backend development.
 - 🌱 I’m currently learning some of the  **DSA** Algorithms and working on some DSA projects
 - 💬 Ask me about **Python, Java, Data Structures & Algorithms**
 - 📫 How to reach me: **[sangeethareddypulicharla@gmail.com]**
